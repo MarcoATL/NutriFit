@@ -5,6 +5,9 @@ const Platillos = [
     { name: "Ensalada griega", image: "./img/comida-4.jpg" },
     { name: "Tacos al pastor", image: "./img/comida-5.jpg" },
     { name: "Tostadas de tinga", image: "./img/comida-6.jpg" },
+    { name: "Enchiladas rojas", image: "./img/comida-7.jpg" },
+    { name: "Sopes", image: "./img/comida-8.jpg" },
+    { name: "Pambazo de chorizo con papa", image: "./img/comida-9.jpg" },
   ];  
 
 //Platillos dinamicos
