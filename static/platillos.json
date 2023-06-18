@@ -1,0 +1,12 @@
+[
+    { "name": "Pollo rostizado", "image": "./static/img/comida-1.jpg" },
+    { "name": "Pozole", "image": "./static/img/comida-2.jpg" },
+    { "name": "Pollo empanizado", "image": "./static/img/comida-3.png" },
+    { "name": "Ensalada griega", "image": "./static/img/comida-4.jpg" },
+    { "name": "Tacos al pastor", "image": "./static/img/comida-5.jpg" },
+    { "name": "Tostadas de tinga", "image": "./static//img/comida-6.jpg" },
+    { "name": "Enchiladas rojas", "image": "./static/img/comida-7.jpg" },
+    { "name": "Sopes", "image": "./static/img/comida-8.jpg" },
+    { "name": "Pambazo de chorizo con papa", "image": "./static/img/comida-9.jpg" }
+  ]
+  
